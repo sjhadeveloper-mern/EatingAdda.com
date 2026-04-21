@@ -22,7 +22,7 @@ const Api = ()=>{
 return (
 <>
 <div className='h-screen w-screen flex justify-center items-center'>
-<div className='flex  gap-5 bg-yellow-500 new flex-wrap'>
+<div className='flex  gap-5 bg-yellow-500 new '>
 {
 api.map((item)=>{
 
