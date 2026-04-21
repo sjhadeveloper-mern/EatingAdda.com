@@ -6,8 +6,8 @@
   
 }
 body{
-  background-color:red ;
-  /* rgba(231, 168, 212, 0.455) */
+  background-color:rgba(231, 168, 212, 0.455) ;
+  
 }
 .new{
   height:80%;
