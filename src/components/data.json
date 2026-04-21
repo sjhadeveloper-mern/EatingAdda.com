@@ -1,0 +1,25 @@
+[
+    {
+        "img":"https://img.pikbest.com/templates/20240612/food-menu-and-delicious-pizza-social-media-post-ad-for-todays-special_10617008.jpg!w700wp",
+        "name":"Pizza",
+        "rating":"4.5",
+       "delivery":"30-35 mins"
+    },
+     {
+        "img":"https://img.freepik.com/free-psd/hot-spicy-burger-social-media-template_505751-2886.jpg",
+        "name":"Burger",
+        "rating":"4.3",
+       "delivery":"25-30 mins"
+    }, {
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHZDmKKDLct8M2ruJKCaqyCLLKcpu4euiyQ&s",
+        "name":"Noodles",
+        "rating":"4.1",
+       "delivery":"15-30 mins"
+    },
+    {
+        "img":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/FOOD_CATALOG/IMAGES/CMS/2025/11/16/1fd01a64-e52c-4b4f-b9d5-adc21476f765_af3fe33f-f78c-4be6-98f4-1971c60853d7.jpg",
+        "name":"Fries",
+        "rating":"4.3",
+       "delivery":"5-10 mins"
+    }
+]
